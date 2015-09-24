@@ -3,7 +3,7 @@ package Trekanter;
 import java.util.Scanner;
  
 public class Trekanter {
- 
+ //Nyt og spændende
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
  
